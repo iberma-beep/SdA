@@ -1,0 +1,920 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260321200644XI5JMD</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202603212006441W97Y0</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Concreción curricular de la SdA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Guía docente</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Isabel Bermúdez Martínez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>El videojuego como expresión cultural: historia, géneros e impacto artístico.
+Guía docente con concreción curricular de la situación de aprendizaje</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1774117470241</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>39f68d49-c41c-4e0c-80ee-284c55c80b6e</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>El videojuego como expresión cultural: historia, géneros e impacto artístico</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El videojuego como expresión cultural: historia, géneros e impacto artístico</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>El videojuego como expresión cultural: historia, géneros e impacto artístico</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>39f68d49-c41c-4e0c-80ee-284c55c80b6e</odePageId>
+      <odeBlockId>block-1774115903066-jci0hq55s</odeBlockId>
+      <blockName>INTRODUCCIÓN</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>39f68d49-c41c-4e0c-80ee-284c55c80b6e</odePageId>
+          <odeBlockId>block-1774115903066-jci0hq55s</odeBlockId>
+          <odeIdeviceId>idevice-1774115903060-y9cuue69i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>La presente situación de aprendizaje se dirige al alumnado de 2º de Bachillerato, en la materia de Movimientos culturales y artísticos, y se centra en el análisis del videojuego como manifestación cultural contemporánea.</li>
+<li>Presenta un carácter interdisciplinar, al vincularse con áreas como Lengua Castellana y Literatura (expresión oral y escrita), Tecnologías de la Información y la Comunicación (competencia digital) y Educación Plástica y Audiovisual (análisis de la imagen).</li>
+<li>En relación con los agrupamientos, y siguiendo los principios del Diseño Universal para el Aprendizaje (DUA), se combinan distintas modalidades: trabajo individual, en parejas y en pequeño grupo (hasta cuatro alumnas), favoreciendo la participación y la atención a la diversidad. La organización del aula será flexible, alternando trabajo autónomo y cooperativo.</li>
+<li>La temporalización se desarrolla en 8 sesiones, distribuidas entre introducción, investigación, elaboración de productos y exposición final.</li>
+<li>El alumnado elaborará como productos principales una infografía digital con algún elemento interactivo (enlaces, códigos QR, etc.) y un vídeo explicativo sobre un videojuego, pudiendo incluir además una propuesta creativa de diseño básico de videojuego. Estos productos permitirán evidenciar la comprensión de los contenidos y el desarrollo de la competencia digital y comunicativa.</li>
+<li>Para su realización se utilizarán diversas herramientas tecnológicas, como Canva para el diseño de la infografía, presentaciones digitales (Google Slides o PowerPoint) y dispositivos móviles para la grabación de vídeo. Como recursos complementarios se emplearán bancos de imágenes libres y materiales audiovisuales de plataformas como YouTube.</li>
+</ul>
+<p>En conjunto, la propuesta fomenta un aprendizaje activo y competencial, orientado al análisis crítico y a la creación de contenidos culturales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774115903060-y9cuue69i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>La presente situación de aprendizaje se dirige al alumnado de 2º de Bachillerato, en la materia de Movimientos culturales y artísticos, y se centra en el análisis del videojuego como manifestación cultural contemporánea.</li>\n<li>Presenta un carácter interdisciplinar, al vincularse con áreas como Lengua Castellana y Literatura (expresión oral y escrita), Tecnologías de la Información y la Comunicación (competencia digital) y Educación Plástica y Audiovisual (análisis de la imagen).</li>\n<li>En relación con los agrupamientos, y siguiendo los principios del Diseño Universal para el Aprendizaje (DUA), se combinan distintas modalidades: trabajo individual, en parejas y en pequeño grupo (hasta cuatro alumnas), favoreciendo la participación y la atención a la diversidad. La organización del aula será flexible, alternando trabajo autónomo y cooperativo.</li>\n<li>La temporalización se desarrolla en 8 sesiones, distribuidas entre introducción, investigación, elaboración de productos y exposición final.</li>\n<li>El alumnado elaborará como productos principales una infografía digital con algún elemento interactivo (enlaces, códigos QR, etc.) y un vídeo explicativo sobre un videojuego, pudiendo incluir además una propuesta creativa de diseño básico de videojuego. Estos productos permitirán evidenciar la comprensión de los contenidos y el desarrollo de la competencia digital y comunicativa.</li>\n<li>Para su realización se utilizarán diversas herramientas tecnológicas, como Canva para el diseño de la infografía, presentaciones digitales (Google Slides o PowerPoint) y dispositivos móviles para la grabación de vídeo. Como recursos complementarios se emplearán bancos de imágenes libres y materiales audiovisuales de plataformas como YouTube.</li>\n</ul>\n<p>En conjunto, la propuesta fomenta un aprendizaje activo y competencial, orientado al análisis crítico y a la creación de contenidos culturales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1774116408099-mmrgh13hj</odePageId>
+  <odeParentPageId>39f68d49-c41c-4e0c-80ee-284c55c80b6e</odeParentPageId>
+  <pageName>INTENCIÓN EDUCATIVA</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INTENCIÓN EDUCATIVA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1774116408099-mmrgh13hj</odePageId>
+      <odeBlockId>block-1774116547734-ruth4oou6</odeBlockId>
+      <blockName>La situación de aprendizaje tiene como finalidad que el alumnado comprenda el videojuego como una manifestación cultural y artística contemporánea, analizando su evolución, características y su relación con el contexto social.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1774116408099-mmrgh13hj</odePageId>
+          <odeBlockId>block-1774116547734-ruth4oou6</odeBlockId>
+          <odeIdeviceId>idevice-1774116547732-al0f3qfzt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Justificación e impacto esperado:</strong></p>
+<p>El desarrollo de esta situación de aprendizaje se justifica por la necesidad de incorporar al aula manifestaciones culturales cercanas al alumnado, como los videojuegos, favoreciendo así un aprendizaje significativo y motivador. A través de su análisis, el alumnado podrá reconocer el valor artístico de estos productos y reflexionar sobre su influencia en la sociedad actual.</p>
+<p>El impacto esperado se traduce en una mejora de la capacidad crítica ante productos culturales, un uso más consciente de la tecnología y el desarrollo de habilidades comunicativas y creativas, fundamentales en el contexto educativo y social actual.</p>
+<p><strong>Relación con los ODS y Retos del siglo XXI</strong></p>
+<p>Esta situación de aprendizaje se vincula con varios Objetivos de Desarrollo Sostenible (ODS) y retos contemporáneos:</p>
+<p>ODS 4: Educación de calidad → fomenta un aprendizaje inclusivo, competencial y adaptado a la cultura digital.<br />ODS 5: Igualdad de género → promueve la participación equitativa y la reflexión sobre la representación en los videojuegos.<br />ODS 9: Industria, innovación e infraestructuras → pone en valor la tecnología y la innovación en la creación cultural.<br />ODS 10: Reducción de las desigualdades → facilita metodologías inclusivas (DUA) y acceso a distintos formatos de aprendizaje.<br />En relación con los retos del siglo XXI, contribuye al desarrollo del pensamiento crítico, la alfabetización digital, la creatividad y la capacidad de interpretar y producir contenidos en un entorno mediático complejo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774116547732-al0f3qfzt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Justificación e impacto esperado:</strong></p>\n<p>El desarrollo de esta situación de aprendizaje se justifica por la necesidad de incorporar al aula manifestaciones culturales cercanas al alumnado, como los videojuegos, favoreciendo así un aprendizaje significativo y motivador. A través de su análisis, el alumnado podrá reconocer el valor artístico de estos productos y reflexionar sobre su influencia en la sociedad actual.</p>\n<p>El impacto esperado se traduce en una mejora de la capacidad crítica ante productos culturales, un uso más consciente de la tecnología y el desarrollo de habilidades comunicativas y creativas, fundamentales en el contexto educativo y social actual.</p>\n<p><strong>Relación con los ODS y Retos del siglo XXI</strong></p>\n<p>Esta situación de aprendizaje se vincula con varios Objetivos de Desarrollo Sostenible (ODS) y retos contemporáneos:</p>\n<p>ODS 4: Educación de calidad → fomenta un aprendizaje inclusivo, competencial y adaptado a la cultura digital.<br />ODS 5: Igualdad de género → promueve la participación equitativa y la reflexión sobre la representación en los videojuegos.<br />ODS 9: Industria, innovación e infraestructuras → pone en valor la tecnología y la innovación en la creación cultural.<br />ODS 10: Reducción de las desigualdades → facilita metodologías inclusivas (DUA) y acceso a distintos formatos de aprendizaje.<br />En relación con los retos del siglo XXI, contribuye al desarrollo del pensamiento crítico, la alfabetización digital, la creatividad y la capacidad de interpretar y producir contenidos en un entorno mediático complejo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1774116753522-1oe7kfaam</odePageId>
+  <odeParentPageId>39f68d49-c41c-4e0c-80ee-284c55c80b6e</odeParentPageId>
+  <pageName>ELEMENTOS CURRICULARES</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ELEMENTOS CURRICULARES</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1774116753522-1oe7kfaam</odePageId>
+      <odeBlockId>block-1774116861966-srv9zl8uc</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1774116753522-1oe7kfaam</odePageId>
+          <odeBlockId>block-1774116861966-srv9zl8uc</odeBlockId>
+          <odeIdeviceId>idevice-1774116861962-n47pqounx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La situación de aprendizaje se desarrolla en 2º de Bachillerato, en la materia Movimientos culturales y artísticos, abordando contenidos relacionados con la evolución de los videojuegos y sus géneros. Integra competencias de análisis crítico, expresión audiovisual y digital, vinculándose con áreas como Lengua, TIC y Educación Plástica. Se plantea un enfoque competencial e inclusivo, combinando trabajo individual, en parejas y en pequeño grupo, con productos finales como infografía interactiva y vídeo explicativo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774116861962-n47pqounx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La situación de aprendizaje se desarrolla en 2º de Bachillerato, en la materia Movimientos culturales y artísticos, abordando contenidos relacionados con la evolución de los videojuegos y sus géneros. Integra competencias de análisis crítico, expresión audiovisual y digital, vinculándose con áreas como Lengua, TIC y Educación Plástica. Se plantea un enfoque competencial e inclusivo, combinando trabajo individual, en parejas y en pequeño grupo, con productos finales como infografía interactiva y vídeo explicativo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1774116770810-1lypaj59j</odePageId>
+  <odeParentPageId>page-1774116753522-1oe7kfaam</odeParentPageId>
+  <pageName>COMPETENCIAS CLAVE</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>COMPETENCIAS CLAVE</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1774116770810-1lypaj59j</odePageId>
+      <odeBlockId>block-1774116938012-uwugy8q31</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1774116770810-1lypaj59j</odePageId>
+          <odeBlockId>block-1774116938012-uwugy8q31</odeBlockId>
+          <odeIdeviceId>idevice-1774116938011-x9bbgora4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>CCL – Competencia en comunicación lingüística</strong></p>
+<p>Comprender, sintetizar y expresar información sobre manifestaciones culturales de manera oral y escrita.<br />Comunicar ideas de forma clara y coherente en la infografía y el vídeo.<br /><strong></strong></p>
+<p><strong>CD – Competencia digital</strong></p>
+<p>Utilizar herramientas digitales para buscar información, crear infografías interactivas y producir vídeos.<br />Evaluar la fiabilidad de recursos y gestionar contenidos multimedia.</p>
+<p><strong>CCEC – Conciencia y expresión culturales</strong></p>
+<p>Analizar los videojuegos como productos culturales y artísticos.<br />Valorar la evolución y el impacto social y estético de los distintos géneros.</p>
+<p><strong>CPSAA – Aprender a aprender y autonomía personal</strong></p>
+<p>Planificar y organizar tareas de manera autónoma o cooperativa.<br />Reflexionar sobre los procesos de creación y análisis.</p>
+<p><strong>CE – Espíritu emprendedor y creatividad</strong></p>
+<p>Aplicar creatividad en el diseño conceptual de un videojuego.<br />Proponer soluciones originales y estéticas para comunicar ideas culturales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774116938011-x9bbgora4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>CCL – Competencia en comunicación lingüística</strong></p>\n<p>Comprender, sintetizar y expresar información sobre manifestaciones culturales de manera oral y escrita.<br />Comunicar ideas de forma clara y coherente en la infografía y el vídeo.<br /><strong></strong></p>\n<p><strong>CD – Competencia digital</strong></p>\n<p>Utilizar herramientas digitales para buscar información, crear infografías interactivas y producir vídeos.<br />Evaluar la fiabilidad de recursos y gestionar contenidos multimedia.</p>\n<p><strong>CCEC – Conciencia y expresión culturales</strong></p>\n<p>Analizar los videojuegos como productos culturales y artísticos.<br />Valorar la evolución y el impacto social y estético de los distintos géneros.</p>\n<p><strong>CPSAA – Aprender a aprender y autonomía personal</strong></p>\n<p>Planificar y organizar tareas de manera autónoma o cooperativa.<br />Reflexionar sobre los procesos de creación y análisis.</p>\n<p><strong>CE – Espíritu emprendedor y creatividad</strong></p>\n<p>Aplicar creatividad en el diseño conceptual de un videojuego.<br />Proponer soluciones originales y estéticas para comunicar ideas culturales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1774116783588-vxcmn7gc4</odePageId>
+  <odeParentPageId>page-1774116753522-1oe7kfaam</odeParentPageId>
+  <pageName>COMPETENCIAS ESPECÍFICAS</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>COMPETENCIAS ESPECÍFICAS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1774116783588-vxcmn7gc4</odePageId>
+      <odeBlockId>block-1774116980862-hxerz50lo</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1774116783588-vxcmn7gc4</odePageId>
+          <odeBlockId>block-1774116980862-hxerz50lo</odeBlockId>
+          <odeIdeviceId>idevice-1774116980860-ylxez241z</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ol>
+<li>Analizar manifestaciones culturales y artísticas identificando sus elementos formales, técnicos y conceptuales, y relacionándolos con su contexto histórico, social y cultural.<br /></li>
+<li>Interpretar la evolución de los movimientos culturales y artísticos, estableciendo conexiones entre distintas disciplinas y épocas.<br /></li>
+<li>Valorar críticamente las manifestaciones culturales como reflejo de la sociedad y como expresión artística, mostrando actitudes reflexivas y responsables.<br /></li>
+<li>Elaborar producciones propias (visual, audiovisual o escrita) que integren conocimientos culturales y artísticos con coherencia, creatividad y rigor.<br /></li>
+<li>Comunicar ideas y conocimientos utilizando distintos lenguajes y soportes, adaptando la forma y el contenido al público y al contexto.</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774116980860-ylxez241z","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ol>\n<li>Analizar manifestaciones culturales y artísticas identificando sus elementos formales, técnicos y conceptuales, y relacionándolos con su contexto histórico, social y cultural.<br /></li>\n<li>Interpretar la evolución de los movimientos culturales y artísticos, estableciendo conexiones entre distintas disciplinas y épocas.<br /></li>\n<li>Valorar críticamente las manifestaciones culturales como reflejo de la sociedad y como expresión artística, mostrando actitudes reflexivas y responsables.<br /></li>\n<li>Elaborar producciones propias (visual, audiovisual o escrita) que integren conocimientos culturales y artísticos con coherencia, creatividad y rigor.<br /></li>\n<li>Comunicar ideas y conocimientos utilizando distintos lenguajes y soportes, adaptando la forma y el contenido al público y al contexto.</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1774116806258-rgh62b9bz</odePageId>
+  <odeParentPageId>page-1774116753522-1oe7kfaam</odeParentPageId>
+  <pageName>SABERES BÁSICOS</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SABERES BÁSICOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1774116806258-rgh62b9bz</odePageId>
+      <odeBlockId>block-1774117012980-ejlyi869r</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1774116806258-rgh62b9bz</odePageId>
+          <odeBlockId>block-1774117012980-ejlyi869r</odeBlockId>
+          <odeIdeviceId>idevice-1774117012978-i7l4kplej</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>La evolución del concepto de arte.<br />- Las distintas manifestaciones de la expresión artística.<br />- Elementos esenciales de los distintos lenguajes artísticos.<br />- Los /grandes movimientos artístico-culturales contemporáneos. Aspectos fundamentales.<br />- La expresión artística en su contexto social e histórico.<br />- Función social del arte y la cultura. Su impacto socieconómico.<br />- La libertad de expresión. La censura en el arte.<br />- Estereotipos culturales y artísticos. La perspectiva de género y la perspectiva intercultural en el arte. El respeto a la diversidad.<br />- El arte como herramienta de expresión individual y colectiva.<br />- Estrategias de investigación, análisis, interpretación y valoración crítica de productos culturales y artísticos.<br /></li>
+<li>Narrativa multiverso y videojuegos.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774117012978-i7l4kplej","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>La evolución del concepto de arte.<br />- Las distintas manifestaciones de la expresión artística.<br />- Elementos esenciales de los distintos lenguajes artísticos.<br />- Los /grandes movimientos artístico-culturales contemporáneos. Aspectos fundamentales.<br />- La expresión artística en su contexto social e histórico.<br />- Función social del arte y la cultura. Su impacto socieconómico.<br />- La libertad de expresión. La censura en el arte.<br />- Estereotipos culturales y artísticos. La perspectiva de género y la perspectiva intercultural en el arte. El respeto a la diversidad.<br />- El arte como herramienta de expresión individual y colectiva.<br />- Estrategias de investigación, análisis, interpretación y valoración crítica de productos culturales y artísticos.<br /></li>\n<li>Narrativa multiverso y videojuegos.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1774116822321-v15ftaxh8</odePageId>
+  <odeParentPageId>page-1774116753522-1oe7kfaam</odeParentPageId>
+  <pageName>CRITERIOS DE EVALUACIÓN</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRITERIOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1774116822321-v15ftaxh8</odePageId>
+      <odeBlockId>block-1774117058291-nlwr0ml31</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1774116822321-v15ftaxh8</odePageId>
+          <odeBlockId>block-1774117058291-nlwr0ml31</odeBlockId>
+          <odeIdeviceId>idevice-1774117058290-qdv5bn15k</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>CE1 – Análisis de manifestaciones culturales y artísticas. Analizar videojuegos identificando sus elementos formales, técnicos y expresivos.<br />Relacionar sus características con el contexto histórico y social de su aparición.<br />CE2 – Interpretación de la evolución de los movimientos culturales. Explicar la evolución de los videojuegos y su relación con otros movimientos culturales.<br />Establecer conexiones entre géneros y cambios en diseño, narrativa y estética.<br />CE3 – Valoración crítica de las manifestaciones culturales. Valorar de forma argumentada el papel cultural y artístico de los videojuegos.<br />Reflexionar sobre la influencia social, mediática y estética de estos productos.<br />CE4 – Elaboración de producciones propias. Diseñar infografías y productos audiovisuales que integren los conocimientos adquiridos.<br />Aplicar creatividad y rigor en la presentación de contenidos.<br />CE5 – Comunicación y competencia digital. Comunicar ideas y conocimientos mediante soportes digitales y audiovisuales.<br />Utilizar herramientas digitales para buscar información, organizar contenidos y elaborar productos interactivos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774117058290-qdv5bn15k","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>CE1 – Análisis de manifestaciones culturales y artísticas. Analizar videojuegos identificando sus elementos formales, técnicos y expresivos.<br />Relacionar sus características con el contexto histórico y social de su aparición.<br />CE2 – Interpretación de la evolución de los movimientos culturales. Explicar la evolución de los videojuegos y su relación con otros movimientos culturales.<br />Establecer conexiones entre géneros y cambios en diseño, narrativa y estética.<br />CE3 – Valoración crítica de las manifestaciones culturales. Valorar de forma argumentada el papel cultural y artístico de los videojuegos.<br />Reflexionar sobre la influencia social, mediática y estética de estos productos.<br />CE4 – Elaboración de producciones propias. Diseñar infografías y productos audiovisuales que integren los conocimientos adquiridos.<br />Aplicar creatividad y rigor en la presentación de contenidos.<br />CE5 – Comunicación y competencia digital. Comunicar ideas y conocimientos mediante soportes digitales y audiovisuales.<br />Utilizar herramientas digitales para buscar información, organizar contenidos y elaborar productos interactivos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1774117090061-e6m4p89wk</odePageId>
+  <odeParentPageId>page-1774116753522-1oe7kfaam</odeParentPageId>
+  <pageName>METODOLOGÍAS ACTIVAS</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>METODOLOGÍAS ACTIVAS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1774117090061-e6m4p89wk</odePageId>
+      <odeBlockId>block-1774119502247-yczdgjura</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1774117090061-e6m4p89wk</odePageId>
+          <odeBlockId>block-1774119502247-yczdgjura</odeBlockId>
+          <odeIdeviceId>idevice-1774119502244-9ig397px4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Aprendizaje basado en proyectos (ABP)</li>
+<li>Trabajo cooperativo flexible (parejas o grupo de 4)</li>
+<li>Enfoque teórico con aplicación práctica guiada</li>
+<li>Uso de herramientas digitales sencillas (Canva, PowerPoint, móvil)</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774119502244-9ig397px4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Aprendizaje basado en proyectos (ABP)</li>\n<li>Trabajo cooperativo flexible (parejas o grupo de 4)</li>\n<li>Enfoque teórico con aplicación práctica guiada</li>\n<li>Uso de herramientas digitales sencillas (Canva, PowerPoint, móvil)</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1774117168363-seggd44ie</odePageId>
+  <odeParentPageId>39f68d49-c41c-4e0c-80ee-284c55c80b6e</odeParentPageId>
+  <pageName>VINCULACIÓN CON LOS PROGRAMAS Y PROYECTOS DEL CENTRO</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>VINCULACIÓN CON LOS PROGRAMAS Y PROYECTOS DEL CENTRO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>VINCULACIÓN CON LOS PROGRAMAS Y PROYECTOS DEL CENTRO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1774117168363-seggd44ie</odePageId>
+      <odeBlockId>block-1774119768488-wuos4c2n4</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1774117168363-seggd44ie</odePageId>
+          <odeBlockId>block-1774119768488-wuos4c2n4</odeBlockId>
+          <odeIdeviceId>idevice-1774119768485-pwbmkfuz4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La situación de aprendizaje sobre videojuegos se puede articular directamente con los proyectos estratégicos del centro:</p>
+<p><strong>PLEI (Programa de Investigación y Lector)</strong></p>
+<ul>
+<li>La investigación sobre la historia, géneros y características culturales de los videojuegos fortalece las competencias de lectura crítica, búsqueda de información y análisis de textos digitales y audiovisuales.<br />El alumnado desarrolla la capacidad de sintetizar información y elaborar productos comunicativos, habilidades clave del PLEI.<br /><strong></strong></li>
+</ul>
+<p><strong>Programa competencia digital</strong></p>
+<ul>
+<li>La creación de infografías interactivas, vídeos explicativos y diseños conceptuales de videojuegos utiliza herramientas digitales y fomenta la competencia tecnológica del alumnado.<br />Promueve la integración de recursos multimedia, plataformas digitales y aplicaciones educativas, reforzando la digitalización del aula y el uso responsable de la tecnología.<br />En conjunto, la situación de aprendizaje permite aplicar los conocimientos del currículo a proyectos reales del centro, reforzando la investigación, la lectura crítica y la competencia digital, al mismo tiempo que conecta con la cultura y la creatividad digital del siglo XXI.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774119768485-pwbmkfuz4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La situación de aprendizaje sobre videojuegos se puede articular directamente con los proyectos estratégicos del centro:</p>\n<p><strong>PLEI (Programa de Investigación y Lector)</strong></p>\n<ul>\n<li>La investigación sobre la historia, géneros y características culturales de los videojuegos fortalece las competencias de lectura crítica, búsqueda de información y análisis de textos digitales y audiovisuales.<br />El alumnado desarrolla la capacidad de sintetizar información y elaborar productos comunicativos, habilidades clave del PLEI.<br /><strong></strong></li>\n</ul>\n<p><strong>Programa competencia digital</strong></p>\n<ul>\n<li>La creación de infografías interactivas, vídeos explicativos y diseños conceptuales de videojuegos utiliza herramientas digitales y fomenta la competencia tecnológica del alumnado.<br />Promueve la integración de recursos multimedia, plataformas digitales y aplicaciones educativas, reforzando la digitalización del aula y el uso responsable de la tecnología.<br />En conjunto, la situación de aprendizaje permite aplicar los conocimientos del currículo a proyectos reales del centro, reforzando la investigación, la lectura crítica y la competencia digital, al mismo tiempo que conecta con la cultura y la creatividad digital del siglo XXI.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1774117260420-7d280viuc</odePageId>
+  <odeParentPageId>39f68d49-c41c-4e0c-80ee-284c55c80b6e</odeParentPageId>
+  <pageName>ACTIVIDADES COMPLEMENTARIAS Y EXTRAESCOLARES</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ACTIVIDADES COMPLEMENTARIAS Y EXTRAESCOLARES</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1774117260420-7d280viuc</odePageId>
+      <odeBlockId>block-1774119931213-3fc77tdar</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1774117260420-7d280viuc</odePageId>
+          <odeBlockId>block-1774119931213-3fc77tdar</odeBlockId>
+          <odeIdeviceId>idevice-1774119931211-jk1gv8z9r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>✔ Visita guiada a eventos (FanMedia Con, CometCon) para observar cultura digital en contexto.<br />✔ Entrevistas o tareas de análisis sobre áreas específicas (realidad virtual, retro‑gaming).<br />✔ Taller externo o dentro del centro con profesionales o participantes de Asturias Game Hub.<br />✔ Crónica o podcast/reportaje sobre la experiencia en un evento o competición.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774119931211-jk1gv8z9r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>✔ Visita guiada a eventos (FanMedia Con, CometCon) para observar cultura digital en contexto.<br />✔ Entrevistas o tareas de análisis sobre áreas específicas (realidad virtual, retro‑gaming).<br />✔ Taller externo o dentro del centro con profesionales o participantes de Asturias Game Hub.<br />✔ Crónica o podcast/reportaje sobre la experiencia en un evento o competición.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1774117284253-2wraauhx4</odePageId>
+  <odeParentPageId>39f68d49-c41c-4e0c-80ee-284c55c80b6e</odeParentPageId>
+  <pageName>LICENCIA</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LICENCIA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1774117284253-2wraauhx4</odePageId>
+      <odeBlockId>block-1774118930614-zajdtbsey</odeBlockId>
+      <blockName>https://creativecommons.org/licenses/by-sa/4.0/</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1774117284253-2wraauhx4</odePageId>
+          <odeBlockId>block-1774118930614-zajdtbsey</odeBlockId>
+          <odeIdeviceId>idevice-1774118930611-az74x96h5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774118930611-az74x96h5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1774117284253-2wraauhx4</odePageId>
+      <odeBlockId>block-1774119071036-zh33jhqsa</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1774117284253-2wraauhx4</odePageId>
+          <odeBlockId>block-1774119071036-zh33jhqsa</odeBlockId>
+          <odeIdeviceId>idevice-1774119071035-ddohcllrc</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1774119071035-ddohcllrc" title="" href="{{context_path}}/content/resources/by-sa.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/by-sa.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774119071035-ddohcllrc","img_0":{"img":"{{context_path}}/content/resources/by-sa.png","thumbnail":"{{context_path}}/content/resources/by-sa.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1774118631919-iwo7ggf6b</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descarga este ExE</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descarga este ExE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Descarga este ExE</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1774118631919-iwo7ggf6b</odePageId>
+      <odeBlockId>block-1774118773787-0xoh8talb</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1774118631919-iwo7ggf6b</odePageId>
+          <odeBlockId>block-1774118773787-0xoh8talb</odeBlockId>
+          <odeIdeviceId>idevice-1774118773785-6gpk3gyh7</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Concreción curricular de la SdA</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">El videojuego como expresión cultural: historia, géneros e impacto artístico.
+Guía docente con concreción curricular de la situación de aprendizaje</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Isabel Bermúdez Martínez</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
